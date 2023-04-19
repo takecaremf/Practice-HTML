@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 # Practice-HTML
-For submission by << -- Mark Vincent Omega -- >>
+For submission << -- Mark Vincent Omega -- >>
 <html>
 <head>
   
@@ -16,10 +17,11 @@ For submission by << -- Mark Vincent Omega -- >>
 <body>
   
 <!-- Q1.Your name as heading per letter -->  
-<h6>M</h6>
-<h5>A</h5>
-<h4>R</h4>
-<h3>K</h3>
+
+  <h6>M</h6>
+  <h5>A</h5>
+  <h4>R</h4>
+  <h3>K</h3>
 <hr />
 <!--Q2. Up and bottom target/anchor link -->
 <p>Some top content<br />
