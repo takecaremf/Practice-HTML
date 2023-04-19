@@ -27,24 +27,24 @@ For submission by << -- Mark Vincent Omega -- >>
 <a href="#top">Go to Top</a>
 </p>
 
-<a target="_blank" href="https://shopee.ph/%22%3E
-<img width="200" height="100" src="https://logolook.net/wp-content/uploads/2021/11/Shopee-Logo.png" alt="Shopee" />
+      <a target="_blank" href="https://shopee.ph/%22%3E
+          <img width="200" height="100" src="https://logolook.net/wp-content/uploads/2021/11/Shopee-Logo.png" alt="Shopee" />
 </a>
 <br />
-<a target="_blank" href="https://www.lazada.com.ph/%22%3E
-<img width="200" height="100" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png" alt="Lazada" />
+       <a target="_blank" href="https://www.lazada.com.ph/%22%3E
+          <img width="200" height="100" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png" alt="Lazada" />
 </a>
 <br />
-<a target="_blank" href="https://ph.shein.com/%22%3E
-<img width="200" height="100" src="https://1000logos.net/wp-content/uploads/2021/05/Shein-logo.png" alt="Shein" />
+      <a target="_blank" href="https://ph.shein.com/%22%3E
+          <img width="200" height="100" src="https://1000logos.net/wp-content/uploads/2021/05/Shein-logo.png" alt="Shein" />
 </a>
 <br />
-<a target="_blank" href="https://www.amazon.com/%22%3E
-<img width="200" height="100" src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="Amazon" />
+      <a target="_blank" href="https://www.amazon.com/%22%3E
+          <img width="200" height="100" src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="Amazon" />
 </a>
 <br />
-<a target="_blank" href="https://www.ebay.com/%22%3E
-<img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png" alt="eBay" />
+      <a target="_blank" href="https://www.ebay.com/%22%3E
+          <img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png" alt="eBay" />
 </a>
 </p>
 
@@ -64,7 +64,5 @@ For submission by << -- Mark Vincent Omega -- >>
      <td colspan="3">&nbsp;</rd>
     </tr>
     </table>
-    
-    </body>
     </body>
 </html>
