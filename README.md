@@ -5,14 +5,6 @@ For submission << -- Mark Vincent Omega -- >>
 <head>
   
   <title>Practice HTML 2.1</title>
-    
-  <style>
-    html {}
-        body {
-            background color: #0333;
-            color: whitesmoke;
-         }  
-  </style>
   
 </head>
 <body>
