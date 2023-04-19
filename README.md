@@ -1,22 +1,25 @@
 # Practice-HTML
 For submission by << -- Mark Vincent Omega -- >>
+<html>
 <head>
   
   <title>Practice HTML 2.1</title>
-    <style>
+    
+  <style>
         body {
             background color: #0333;
             color: whitesmoke;
          }  
-    </style>
+  </style>
   
-    </head>
-    <body>
+</head>
+<body>
+  
 <!-- Q1.Your name as heading per letter -->  
-    <h6>M</h6>
-    <h5>A</h5>
-    <h4>R</h4>
-    <h3>K</h3>
+<h6>M</h6>
+<h5>A</h5>
+<h4>R</h4>
+<h3>K</h3>
 <hr />
 <!--Q2. Up and bottom target/anchor link -->
 <p>Some top content<br />
@@ -56,7 +59,6 @@ For submission by << -- Mark Vincent Omega -- >>
 <hr />
   
 <!--Q3. Puzzle Table-->
-  
 <table border="1">
     <tr>
      <th colspan="3" align="center">Top</th>
@@ -73,5 +75,5 @@ For submission by << -- Mark Vincent Omega -- >>
      <td colspan="3">&nbsp;</rd>
     </tr>
     </table>
-    </body>
+</body>
 </html>
