@@ -7,17 +7,18 @@ For submission by << -- Mark Vincent Omega -- >>
         body {
             background color: #0333;
             color: whitesmoke;
-         }
-      
+         }  
     </style>
+  
     </head>
     <body>
-  
-    <h1>M</h1>
-    <h2>A</h2>
-    <h3>R</h3>
-    <h4>K</h4>
-
+<!-- Q1.Your name as heading per letter -->  
+    <h6>M</h6>
+    <h5>A</h5>
+    <h4>R</h4>
+    <h3>K</h3>
+<hr />
+<!--Q2. Up and bottom target/anchor link -->
 <p>Some top content<br />
 <a href="#bottom">Go to bottom</a>
 </p>
@@ -27,7 +28,9 @@ For submission by << -- Mark Vincent Omega -- >>
 <p id="bottom">Some bottom content...<br />
 <a href="#top">Go to Top</a>
 </p>
-
+<hr />
+<!--Q2. img links to Shopee, Lazada, Shein, Amazon, eBay-->
+<p>
 </a>
 <br />
        <a target="_blank" href="https://shopee.ph/%22%3E
@@ -50,7 +53,10 @@ For submission by << -- Mark Vincent Omega -- >>
           <img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png" alt="eBay" />
 </a>
 </p>
-
+<hr />
+  
+<!--Q3. Puzzle Table-->
+  
 <table border="1">
     <tr>
      <th colspan="3" align="center">Top</th>
