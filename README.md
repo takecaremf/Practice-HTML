@@ -27,7 +27,9 @@ For submission by << -- Mark Vincent Omega -- >>
 <a href="#top">Go to Top</a>
 </p>
 
-      <a target="_blank" href="https://shopee.ph/%22%3E
+</a>
+<br />
+       <a target="_blank" href="https://shopee.ph/%22%3E
           <img width="200" height="100" src="https://logolook.net/wp-content/uploads/2021/11/Shopee-Logo.png" alt="Shopee" />
 </a>
 <br />
