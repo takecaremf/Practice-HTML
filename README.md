@@ -8,14 +8,15 @@ For submission by << -- Mark Vincent Omega -- >>
             background color: #0333;
             color: whitesmoke;
          }
+      
     </style>
     </head>
     <body>
   
-    <h6>M</h1>
-    <h5>A</h2>
-    <h4>R</h3>
-    <h3>K</h4>
+    <h1>M</h1>
+    <h2>A</h2>
+    <h3>R</h3>
+    <h4>K</h4>
 
 <p>Some top content<br />
 <a href="#bottom">Go to bottom</a>
