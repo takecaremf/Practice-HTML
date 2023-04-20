@@ -31,14 +31,15 @@ For submission << -- Mark Vincent Omega -- >>
 <p>
 </a>
 <br />
-      <a href="https://chatgpt.com/" target=_blank>
-        <img src="Images/ChatGpt.jpg" width="100" height="100"> </a> 
-    <a href="https://youtube.com/" target=_blank>
-        <img src="Images//Youtube.jpg" width="100" height="100"> </a>
-    <a href="https://web.facebook.com/?_rdc=1&_rdr" target="_blank">
-        <img src="Images//Facebook.jpg" width="100" height="100" ></a>
-    <a href="https://twitter.com/" target="_blank">
-        <img src="Images//Twitter.jpg" width="100" height="100"></a>
+     <h1>Online Shopping Platforms</h1>
+    <a href="https://www.lazada.com" target="_blank">
+        <img src="lazada.png" width="100" height="100"></a>
+    <a href="https://shopee.com">
+        <img src="shopee.png" width="100" height="100"></a>
+    <a href="https://www.amazon.com">
+        <img src="amazon.png" width="100" height="100"></a>
+	  <a href="https://www.ebay.com">
+        <img src="ebay.png" width="100" height="100"></a>
     <a href="https://www.zalora.com.ph/" target="_blank">
         <img src="Images//zalora.jpg" width="100" height="100"></a>
 </p>
