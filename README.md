@@ -31,25 +31,16 @@ For submission << -- Mark Vincent Omega -- >>
 <p>
 </a>
 <br />
-       <a target="_blank" href="https://shopee.ph/%22%3E](https://play-lh.googleusercontent.com/Lr-AcPbzB8MZVWqoa2Mp3HiqUr4fs17Tb-bdBqwgO841WMj06t9it3FsJonjPlzVk8p8)
-          <img width="200" height="100" src="https://logolook.net/wp-content/uploads/2021/11/Shopee-Logo.png" alt="Shopee" />
-</a>
-<br />
-       <a target="_blank" href="https://www.lazada.com.ph/%22%3E
-          <img width="200" height="100" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB19SB7aMFY.1VjSZFnXXcFHXXa.png" alt="Lazada" />
-</a>
-<br />
-      <a target="_blank" href="https://ph.shein.com/%22%3E
-          <img width="200" height="100" src="https://1000logos.net/wp-content/uploads/2021/05/Shein-logo.png" alt="Shein" />
-</a>
-<br />
-      <a target="_blank" href="https://www.amazon.com/%22%3E
-          <img width="200" height="100" src="https://img.etimg.com/thumb/msid-59738992,width-640,resizemode-4,imgsize-25499/amazon.jpg" alt="Amazon" />
-</a>
-<br />
-      <a target="_blank" href="https://www.ebay.com/%22%3E
-          <img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/2560px-EBay_logo.svg.png" alt="eBay" />
-</a>
+      <a href="https://chatgpt.com/" target=_blank>
+        <img src="Images/ChatGpt.jpg" width="100" height="100"> </a> 
+    <a href="https://youtube.com/" target=_blank>
+        <img src="Images//Youtube.jpg" width="100" height="100"> </a>
+    <a href="https://web.facebook.com/?_rdc=1&_rdr" target="_blank">
+        <img src="Images//Facebook.jpg" width="100" height="100" ></a>
+    <a href="https://twitter.com/" target="_blank">
+        <img src="Images//Twitter.jpg" width="100" height="100"></a>
+    <a href="https://www.zalora.com.ph/" target="_blank">
+        <img src="Images//zalora.jpg" width="100" height="100"></a>
 </p>
 <hr />
   
